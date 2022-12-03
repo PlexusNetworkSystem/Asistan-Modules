@@ -3,7 +3,7 @@ appname="ext"
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${tp} .
-    ${green}Açma komutu:${purple} ${tp}
+    ${yellow}->${tp} Arşiv dosyalarını dışarı aktarmaya yarar.
+    ${green}Yardım komutu:${purple} ext help${tp}
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯"

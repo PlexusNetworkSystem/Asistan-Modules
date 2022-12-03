@@ -3,7 +3,7 @@ appname="face detection"
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${tp} .
-    ${green}Açma komutu:${purple} ${tp}
+    ${yellow}->${tp} Yüz testpit programını açar.
+    ${green}Açma komutu:${purple} face detection${tp}
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯"

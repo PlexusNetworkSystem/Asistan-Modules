@@ -3,7 +3,7 @@ appname="format changer"
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${tp} .
-    ${green}Açma komutu:${purple} ${tp}
+    ${yellow}->${tp} Medya dosyalarının formatını değiştirmeye yarar.
+    ${green}Açma komutu:${purple} format changer${tp}
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯"
