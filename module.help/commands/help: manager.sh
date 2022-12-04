@@ -3,6 +3,7 @@ appname="manager"
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${blue} Merhaba
+    ${yellow}->${tp} Belirtilen ${green}ağ arayüzünün ${tp}modunu ${blue}management${tp} yapar
+    ${green}Açma komutu:${purple} manager -> <interface_name>${tp}
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯\\\\${cyan}$appname${tp}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯"

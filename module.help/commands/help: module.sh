@@ -3,6 +3,7 @@ appname="module"
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${blue} Merhaba
+    ${yellow}->${tp} module sistemini açmaya yarar.
+    ${green}Yardım komutu:${purple} module: help${tp}
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯\\\\${cyan}$appname${tp}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯"

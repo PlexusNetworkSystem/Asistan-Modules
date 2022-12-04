@@ -3,6 +3,7 @@ appname="log"
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${blue} Merhaba
+    ${yellow}->${tp} log menüsünü açar
+    ${green}Açma komutu:${purple} log${tp}
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯\\\\${cyan}$appname${tp}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯"

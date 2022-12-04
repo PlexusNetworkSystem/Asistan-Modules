@@ -3,6 +3,7 @@ appname="ldisk"
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${blue} Merhaba
+    ${yellow}->${tp} Diskleri ve Bölümlerini görüntülemeye yarayan pragramları listler.
+    ${green}Açma komutu:${purple} ldisk${tp}
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯\\\\${cyan}$appname${tp}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯"
