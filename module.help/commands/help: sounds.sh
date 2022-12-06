@@ -3,6 +3,6 @@ appname=""
 echo -e "______________/${cyan}$appname${tp}\______________"
 echo -ne \
 "Help of $appname:
-    ${yellow}->${blue} Merhaba
+    ${yellow}->${blue} 
 "
 echo -e "${tp}¯¯¯¯¯¯¯¯¯¯¯¯¯¯\\\\${cyan}$appname${tp}/¯¯¯¯¯¯¯¯¯¯¯¯¯¯"
